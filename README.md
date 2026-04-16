@@ -48,7 +48,7 @@ python main.py
 
 📸 Sample Run
 
-![App Preview](https://github.com/trippinganymess/activity/blob/main/assets/sample.png?raw=true)
+![App Preview](https://github.com/trippinganymess/activity/blob/main/assests/sample.png?raw=true)
 
 ## 🚀 Usage
 
