@@ -1,0 +1,1 @@
+This is a basic github activity monitor CLI application.
