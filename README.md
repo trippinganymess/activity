@@ -57,3 +57,6 @@ After running `python main.py`, enter a GitHub username when prompted to fetch a
 ⚠️ API Rate Limits
 
 Please be aware that the GitHub API allows only 60 requests per hour for unauthenticated users. If this limit is exceeded, the application will timeout until your quota resets.
+
+project credits : 
+https://roadmap.sh/projects/github-user-activity
