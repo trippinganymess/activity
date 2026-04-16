@@ -53,7 +53,7 @@ class githubClient:
                             console.print(f"- opened an issue in {event['repo']['name']} at {event['created_at']}",style="enter")
                         case "PullRequestEvent":
                             console.print(f"- made a pull request in {event['repo']['name']} at {event['created_at']}",style="pull")
-                        case "CreatedEvent":
+                        case "CreateEvent":
                             console.print(f"- created {event['repo']['name']} at {event['created_at']}",style="enter")
                         case "WatchEvent":
                             console.print(f"- starred the {event['repo']['name']} at {event['created_at']}",style="enter")

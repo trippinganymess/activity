@@ -4,9 +4,9 @@ from rich.theme import Theme
 
 custom_theme = Theme(
     {  
-      "enter" : "bold green",
-      "pull" : "bold blue",
-      "release" : "bold yellow",
+      "enter" : "italic green",
+      "pull" : "italic blue",
+      "release" : "italic yellow",
       "error" : "bold red"
         
     }
